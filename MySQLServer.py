@@ -1,3 +1,4 @@
+import utils.session
 import mysql.connector
 from mysql.connector import Error
 
